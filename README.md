@@ -41,12 +41,11 @@ The dataset includes:
 
 ## 📈 Visualizations
 
-### Total Sales by Product
-(Add your screenshot here)
+###  Total Sales by Product
+![Total Sales](total_sales_by_product.png)
 
 ### Quantity Sold by Product
-(Add your screenshot here)
-
+![Quantity Sold](quantity_sold_by_product.png)
 ---
 
 ## 🧠 What I Learned
