@@ -1,7 +1,13 @@
 # # 📊 Supermarket Sales Analysis Using Python
 
 ## 📌 Project Overview
-This project analyzes supermarket sales data using Python. The objective is to calculate total sales, evaluate product performance, and present insights using data visualization.
+This project demonstrates foundational Python data analysis skills using Pandas and Matplotlib to analyse a small supermarket sales dataset.
+
+I created a Pandas DataFrame, calculated total sales from price and quantity, grouped and sorted product performance, and developed bar charts to compare revenue and quantities sold.
+
+The analysis showed that Eggs generated the highest revenue, Bread had the highest quantity sold, and Milk generated the lowest revenue.
+
+The project demonstrates practical skills in data manipulation, calculations, aggregation, sorting, and data visualisation.
 
 ---
 
